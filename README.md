@@ -1,0 +1,2 @@
+# emojournal
+Your dynamic journal
